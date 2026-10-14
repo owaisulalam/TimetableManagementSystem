@@ -87,4 +87,4 @@ UI Framework	AWT (Java Abstract Window Toolkit)
 Architecture	Modular OOP (Screens & Models)
 ---
 🙌 Credits
-This project is created and maintained by Zulkarnain.
+This project is created and maintained by Owais.
